@@ -1,7 +1,7 @@
 # Vibe Guard
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/skills.sh-vibe--guard-blue)](https://skills.sh/ofershap/vibe-guard/vibe-guard)
+[![Skills](https://img.shields.io/badge/skills.sh-vibe--guard-blue)](https://skills.sh/ofershap/vibe-guard)
 
 Always-on security guardrails for AI-generated code. Catches hardcoded secrets, missing auth, SQL
 injection, insecure cookies, wildcard CORS, and the 20 things AI agents forget before you deploy.
@@ -15,7 +15,7 @@ injection, insecure cookies, wildcard CORS, and the 20 things AI agents forget b
 ### Cursor / Claude Code / Windsurf
 
 ```bash
-npx skills add ofershap/vibe-guard/vibe-guard
+npx skills add ofershap/vibe-guard
 ```
 
 Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
