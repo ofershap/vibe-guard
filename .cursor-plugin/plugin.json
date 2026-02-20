@@ -1,0 +1,16 @@
+{
+  "name": "vibe-guard",
+  "displayName": "Vibe Guard",
+  "version": "0.1.0",
+  "description": "Always-on security guardrails for AI-generated code. Catches hardcoded secrets, missing auth, insecure database rules, and the 20 things AI agents forget before you deploy.",
+  "author": {
+    "name": "Ofer Shapira",
+    "email": "ofer@shapira.dev",
+    "url": "https://github.com/ofershap"
+  },
+  "homepage": "https://github.com/ofershap/vibe-guard",
+  "repository": "https://github.com/ofershap/vibe-guard",
+  "license": "MIT",
+  "keywords": ["security", "vibe-coding", "guardrails", "secrets", "auth", "cursor-plugin", "claude-code", "ai-agent", "production-ready"],
+  "logo": "assets/logo.svg"
+}

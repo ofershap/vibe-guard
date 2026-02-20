@@ -1,0 +1,24 @@
+{
+  "name": "vibe-guard",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Always-on security guardrails for AI-generated code. Catches hardcoded secrets, missing auth, insecure database rules, and the 20 things AI agents forget before you deploy.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": ["security", "vibe-coding", "guardrails", "secrets", "auth", "cursor-plugin", "claude-code", "ai-agent", "production-ready"],
+  "author": {
+    "name": "Ofer Shapira",
+    "url": "https://github.com/ofershap"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ofershap/vibe-guard.git"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.0"
+  }
+}
