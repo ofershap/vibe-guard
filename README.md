@@ -1,10 +1,14 @@
 # Vibe Guard
 
-**45% of AI-generated code has security flaws.** Vibe Guard is always-on security guardrails for AI-generated code. It catches hardcoded secrets, missing auth, insecure database rules, and the 20 things AI agents forget before you deploy.
+**45% of AI-generated code has security flaws.** Vibe Guard is always-on security guardrails for
+AI-generated code. It catches hardcoded secrets, missing auth, insecure database rules, and the 20
+things AI agents forget before you deploy.
 
 ## What It Does
 
-Vibe Guard is not a scanner. It embeds guardrails directly into your agent's behavior. Every time the agent writes code, these rules apply. The agent is steered away from common security mistakes before they reach your codebase.
+Vibe Guard is not a scanner. It embeds guardrails directly into your agent's behavior. Every time
+the agent writes code, these rules apply. The agent is steered away from common security mistakes
+before they reach your codebase.
 
 - **Zero config** - no setup, no API keys
 - **Zero auth** - nothing to sign up for
@@ -62,7 +66,9 @@ Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
 
 ## Why This Plugin?
 
-AI agents are trained on code that includes insecure patterns. They default to quick solutions: hardcoded keys, unvalidated input, unprotected routes. Vibe Guard changes that default. When you ship AI-generated code, these guardrails are already in place.
+AI agents are trained on code that includes insecure patterns. They default to quick solutions:
+hardcoded keys, unvalidated input, unprotected routes. Vibe Guard changes that default. When you
+ship AI-generated code, these guardrails are already in place.
 
 ## License
 

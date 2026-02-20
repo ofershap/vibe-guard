@@ -8,7 +8,17 @@
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
-  "keywords": ["security", "vibe-coding", "guardrails", "secrets", "auth", "cursor-plugin", "claude-code", "ai-agent", "production-ready"],
+  "keywords": [
+    "security",
+    "vibe-coding",
+    "guardrails",
+    "secrets",
+    "auth",
+    "cursor-plugin",
+    "claude-code",
+    "ai-agent",
+    "production-ready"
+  ],
   "author": {
     "name": "Ofer Shapira",
     "url": "https://github.com/ofershap"

@@ -11,6 +11,16 @@
   "homepage": "https://github.com/ofershap/vibe-guard",
   "repository": "https://github.com/ofershap/vibe-guard",
   "license": "MIT",
-  "keywords": ["security", "vibe-coding", "guardrails", "secrets", "auth", "cursor-plugin", "claude-code", "ai-agent", "production-ready"],
+  "keywords": [
+    "security",
+    "vibe-coding",
+    "guardrails",
+    "secrets",
+    "auth",
+    "cursor-plugin",
+    "claude-code",
+    "ai-agent",
+    "production-ready"
+  ],
   "logo": "assets/logo.svg"
 }
